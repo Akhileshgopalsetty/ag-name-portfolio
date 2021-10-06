@@ -1,3 +1,5 @@
-This is my personal portfolio in making.
+# This is my personal portfolio in making.
+
+Hey! welcome to my portfolio.
 I'm Akhilesh Gopalsetty
-I'm a web dev, creating a portfolio. 
+I'm a web dev, creating my own portfolio.
